@@ -3,7 +3,7 @@ import { SearchBar,NavBar, Icon, Tabs ,Grid} from 'antd-mobile';
 import { Carousel, WingBlank } from 'antd-mobile';
 const name=['桌','床','椅','几','柜','书架','沙发','家居饰品','户外家具','全部分类'];
 const datas = Array.from(new Array(10)).map((_val, i) => ({
-    icon: '../img/3'+i+'.png',
+    icon: 'img/3'+i+'.png',
     text: name[i],
 }));
 export default class AppScheng extends Component {
@@ -18,7 +18,7 @@ export default class AppScheng extends Component {
                     style={{backgroundColor:'#3fcccb',color:'#fff'}}
                     rightContent={[
                         // <Icon type="shopping-cart" style={{ color:'#fff', marginRight: '16px' }} />,
-                        <img src={require("../img/cart.png")} style={{width:"20%",marginRight:15}}></img>
+                        <img src={"img/cart.png"} style={{width:"20%",marginRight:15}}></img>
                     ]}
                     >商城</NavBar>
                     <SearchBar placeholder="Search" maxLength={8} />
@@ -29,7 +29,7 @@ export default class AppScheng extends Component {
                     {this.state.data.map(val => (
                         <a style={{ display: 'inline-block', width: '100%', height: this.state.imgHeight }}>
                         <img
-                            src={`../img/332.png`}
+                            src={`img/332.png`}
                             alt=""
                             style={{ width: '100%', verticalAlign: 'top' }}
                         />
@@ -48,8 +48,8 @@ export default class AppScheng extends Component {
                             </div>
                         )}
                         />
-                <img src={`../img/331.png`} style={{width:"100%"}}></img>  
-                <img src={`../img/331.png`} style={{width:"100%"}}></img>    
+                <img src={`img/331.png`} style={{width:"100%"}}></img>  
+                <img src={`img/331.png`} style={{width:"100%"}}></img>    
             </div>
             
         )

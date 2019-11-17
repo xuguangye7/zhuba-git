@@ -36,7 +36,7 @@ export default class AppTab extends React.Component {
                   width: "22px",
                   height: "22px",
                   background:
-                    "url(../img/shouye.png) center center /  21px 21px no-repeat"
+                    "url(img/shouye.png) center center /  21px 21px no-repeat"
                 }}
               />
             }
@@ -46,7 +46,7 @@ export default class AppTab extends React.Component {
                   width: "22px",
                   height: "22px",
                   background:
-                    "url(../img/shouye.png) center center /  21px 21px no-repeat"
+                    "url(img/shouye.png) center center /  21px 21px no-repeat"
                 }}
               />
             }
@@ -66,7 +66,7 @@ export default class AppTab extends React.Component {
                   width: "22px",
                   height: "22px",
                   background:
-                    "url(../img/lgan.png) center center /  21px 21px no-repeat"
+                    "url(img/lgan.png) center center /  21px 21px no-repeat"
                 }}
               />
             }
@@ -76,7 +76,7 @@ export default class AppTab extends React.Component {
                   width: "22px",
                   height: "22px",
                   background:
-                    "url(../img/lgan.png) center center /  21px 21px no-repeat"
+                    "url(img/lgan.png) center center /  21px 21px no-repeat"
                 }}
               />
             }
@@ -98,7 +98,7 @@ export default class AppTab extends React.Component {
                   width: "22px",
                   height: "22px",
                   background:
-                    "url(../img/shopping.png) center center /  21px 21px no-repeat"
+                    "url(img/shopping.png) center center /  21px 21px no-repeat"
                 }}
               />
             }
@@ -108,7 +108,7 @@ export default class AppTab extends React.Component {
                   width: "22px",
                   height: "22px",
                   background:
-                    "url(../img/shopping.png) center center /  21px 21px no-repeat"
+                    "url(img/shopping.png) center center /  21px 21px no-repeat"
                 }}
               />
             }
@@ -127,11 +127,11 @@ export default class AppTab extends React.Component {
           <TabBar.Item
             icon={{
               uri:
-                "../img/my.png"
+                "img/my.png"
             }}
             selectedIcon={{
               uri:
-                "../img/my.png"
+                "img/my.png"
             }}
             title="我的"
             key="my"

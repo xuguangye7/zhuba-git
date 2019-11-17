@@ -28,50 +28,50 @@ export default class AppLgan extends Component {
                     >
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center',  backgroundColor: '#fff' }}>
                         <div style={{width:'100%'}}>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
                         </div>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
                         <div style={{width:'100%'}}>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
                         </div>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
                         <div style={{width:'100%'}}>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
                         </div>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
                         <div style={{width:'100%'}}>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
                         </div>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
                         <div style={{width:'100%'}}>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
                         </div>
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' }}>
                         <div style={{width:'100%'}}>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/21.png`} style={{width:"100%"}}></img>
-                            <img src={`../img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
+                            <img src={`img/21.png`} style={{width:"100%"}}></img>
+                            <img src={`img/22.png`} style={{width:"100%"}}></img>
                         </div>
                     </div>
                 </Tabs>  

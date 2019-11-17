@@ -20,7 +20,7 @@ export default class AppHome extends Component {
                     {this.state.data.map(val => (
                         <a style={{ display: 'inline-block', width: '100%', height: this.state.imgHeight }}>
                         <img
-                            src={`../img/1.png`}
+                            src={`img/1.png`}
                             alt=""
                             style={{ width: '100%', verticalAlign: 'top' }}
                         />    
@@ -28,8 +28,8 @@ export default class AppHome extends Component {
                     ))}
                     
                 </Carousel>       
-                <img src={`../img/2.png`} style={{width:"100%"}}></img>  
-                <img src={`../img/3.png`} style={{width:"100%"}}></img>    
+                <img src={`img/2.png`} style={{width:"100%"}}></img>  
+                <img src={`img/3.png`} style={{width:"100%"}}></img>    
             </div>
             
         )
